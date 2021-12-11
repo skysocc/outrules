@@ -1,3 +1,0 @@
-# outrules
-test
-teset
