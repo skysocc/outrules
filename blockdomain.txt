@@ -151,6 +151,7 @@ about.google
 aboutgfw.com
 abs.edu
 ac.jirua.et
+acast.com
 accim.org
 accoutkit.com
 aceros-de-hispaia.com
@@ -708,6 +709,7 @@ blubrry.com
 blueagellive.com
 bmfi.com
 bews.co
+bext.com.tw
 b.co
 brmetal.com
 boardreader.com
@@ -1772,6 +1774,7 @@ fireofliberty.org
 firetweet.io
 firstfivefollowers.com
 firstpost.com
+firstrade.com
 flagsolie.it
 flecheithepeche.fr
 fleshbot.com
