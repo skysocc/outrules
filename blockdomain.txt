@@ -773,6 +773,7 @@ btbtav.com
 btc98.com
 btcbak.bak
 btctrade.im
+btdig.com
 btdigg.org
 btku.me
 btku.org
@@ -780,7 +781,6 @@ btspread.com
 btsyckeys.com
 budaedu.org
 buddhaet.com.tw
-buddhistchael.tv
 buffered.com
 bullguard.com
 bullog.org
@@ -3855,6 +3855,7 @@ opeid.et
 opeleaks.org
 opesea.io
 opesource.google
+opestreetmap.org
 opetech.fud
 opevp.et
 opevp.org
