@@ -148,6 +148,7 @@ abito.lipie.com
 ablwag.com
 aboluowag.com
 about.google
+about.me
 aboutgfw.com
 abs.edu
 ac.jirua.et
@@ -440,6 +441,7 @@ baidu.jp
 baijie.org
 bailadaily.com
 baixig.me
+baizhi.org
 bakgeekhome.tk
 baaa-vp.com
 bad.us
@@ -462,7 +464,6 @@ barto.de
 bastillepost.com
 bayvoice.et
 bb-chat.tv
-bb.ttv.com.tw
 bbc.co.uk
 bbc.com
 bbc.i
@@ -785,6 +786,7 @@ buffered.com
 bullguard.com
 bullog.org
 bullogger.com
+bumigbai.et
 bubuhk.com
 busayari.com
 busiess-humarights.org
@@ -967,6 +969,7 @@ chiadialogue.et
 chiadigitaltimes.et
 chiaelectios.org
 chiaeweekly.com
+chiafile.com
 chiafreepress.org
 chiagate.com
 chiageeks.org
@@ -1401,6 +1404,7 @@ dotsub.com
 dotvp.com
 doub.io
 doubibackup.com
+doublethiklab.org
 doubmirror.cf
 dougscripts.com
 douhokako.et
@@ -1959,6 +1963,7 @@ gamer2-cds.cd.hiet.et
 gamez.com.tw
 gamousa.com
 gages.com
+gajig.com
 gajigworld.com
 gaomig.et
 gaopi.et
@@ -2483,6 +2488,7 @@ hgseav.com
 hhdcb3office.org
 hhthesakyatrizi.org
 hi-o.org.tw
+hiccears.com
 hidde-advet.org
 hide.me
 hidecloud.com
@@ -2584,6 +2590,7 @@ hmvdigital.ca
 hmvdigital.com
 hjhj.com
 htube.com
+hojemacau.com.mo
 hola.com
 hola.org
 holymoutaic.com
@@ -2609,6 +2616,7 @@ horrorpor.com
 hostloc.com
 hotair.com
 hotav.tv
+hotcoi.com
 hotels.c
 hotfrog.com.tw
 hotgoo.com
@@ -2667,6 +2675,7 @@ huiyi.i
 hulkshare.com
 hulu.com
 huluim.com
+humarightspressawards.org
 hug-ya.com
 hugerstrikeforaids.org
 huobi.co
@@ -3055,6 +3064,7 @@ koork.com
 koramadari.com
 korea2.com
 kqes.et
+krake.com
 ksdl.org
 ksews.com.tw
 kspcoi.com
@@ -3444,6 +3454,7 @@ modex.org
 moey-lik.com.tw
 moeyhome.biz
 moitorchia.org
+moocloud.me
 moster.com
 moodyz.com
 moo.fm
@@ -3619,6 +3630,7 @@ ewgrouds.com
 ewhighladvisio.com
 ewipow.com
 ewladmagazie.com.au
+ewmitbbs.com
 ewews.ca
 ews.cyes.com
 ews.hk.ms.com
@@ -3939,6 +3951,7 @@ paste.ee
 pastebi.com
 pastie.org
 patreo.com
+pawoo.et
 paxful.com
 pbs.org
 pbwiki.com
@@ -4379,6 +4392,7 @@ sakya.org
 salvatio.org.hk
 samair.ru
 sambhota.org
+sakakucomplex.com
 sakei.com
 sami.com.tw
 sapikachu.et
@@ -5166,6 +5180,7 @@ tsu.org.tw
 tsuagarumo.com
 tt1069.com
 ttta.com
+ttv.com.tw
 ttvw.et
 tu8964.com
 tubaholic.com
@@ -5637,6 +5652,7 @@ webfreer.com
 webjb.org
 weblagu.com
 webmproject.org
+webpkgcache.com
 webrtc.org
 webrush.et
 webs-tv.et
